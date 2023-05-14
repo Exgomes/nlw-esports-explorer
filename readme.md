@@ -12,4 +12,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-ewelinesamon@hotmail.com
+ewelinxavier@hotmail.com
